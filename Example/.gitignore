@@ -1,0 +1,37 @@
+# Xcode
+##############################
+
+# User-specific files
+*.xcuserstate
+*.xcuserdata
+*.moved-aside
+*.swp
+*.xcworkspace
+
+# Xcode generated
+build/
+DerivedData/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+
+# Swift Package Manager
+/.build/
+# Xcode 12+ specific
+/.swiftpm/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Generated files
+*.hmap
+*.ipa
+*.dSYM

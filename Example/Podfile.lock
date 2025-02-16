@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (5.9.0)
+  - AlamofireObjectMapper (6.3.0):
+    - Alamofire (= 5.9)
+    - ObjectMapper (~> 3.5.1)
+  - ObjectMapper (3.5.3)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjectMapper
+
+EXTERNAL SOURCES:
+  AlamofireObjectMapper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 02b772c9910e8eba1a079227c32fbd9e46c90a24
+  AlamofireObjectMapper: 635fc1d8d359d18ba26c756aca3e81503b70d61d
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+
+PODFILE CHECKSUM: 34b5611467b73e9cf6fc2c99fbf4a9a52aa8038a
+
+COCOAPODS: 1.16.2
